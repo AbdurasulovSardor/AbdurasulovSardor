@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋 My name is Sardor</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/4DEF84bYG2AAAAAd/stray-programming.gif"
-  
-- 💬 Ask me about **Frontend | Vue Js**
 
-- 📫 You can contact me at: **sardorabdurasulov2oo1@gmail.com**
+💬 Ask me about **Frontend | Vue Js**
+
+📫 You can contact me at: **sardorabdurasulov2oo1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
