@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img alt="hi" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> My name is Sardor Abdurasulov</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">Frontend developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/4DEF84bYG2AAAAAd/stray-programming.gif"/>
 
-💬 Ask me about **Frontend | Vue Js**
+💬 **Frontend | Vue Js**
 
 📫 You can contact me at: **sardorabdurasulov2oo1@gmail.com**
 
